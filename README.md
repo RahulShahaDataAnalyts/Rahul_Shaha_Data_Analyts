@@ -5,12 +5,17 @@
 
 "Without data, you're just another person with an opinion."
 
-Welcome to my little corner of GitHub! I'm passionate about turning messy data into meaningful insights, building dashboards that actually tell a story, and making numbers feel less scary — and a lot more powerful. Here you'll find projects I'm building, things I've learned while surviving deadlines & debugging nightmares, and bits of inspiration for anyone trying to grow in the data world. 🌱
+Welcome to my little corner of GitHub! 
+I'm passionate about turning messy data into meaningful insights, building dashboards that actually tell a story, and making numbers feel less scary — and a lot more powerful. Here you'll find projects I'm building, things I've learned while surviving deadlines & debugging nightmares, and bits of inspiration for anyone trying to grow in the data world. 🌱
+
 Whether you're here to grab a query, explore a project, or just see how someone else is figuring it all out — you're in the right place! 🫶
+
 💡 I find patterns where others see noise. I turn chaos into clarity. I believe great data changes decisions — and great visuals change minds.
 Let's connect, learn & grow together — one dataset at a time.
+
 You bring the coffee, I'll bring the SQL ☕📈
-— Rahul Shaha | Data Analyst | Problem Solver | Always Growing 🌸
+
+Rahul Shaha | Data Analyst | Problem Solver | Always Growing 🌸
 
 
 ## 💻 Tech Stack:
